@@ -52,6 +52,7 @@ We envision a future where digital academic and non-academic information is trul
 ## Contract Details
 
 - Contract Address: CB2OZTF7KAFW73XTCA3N5YGOLLZUPEQM2QCUDFZNS6UBBDZXFSPRFSWO
+<img width="1896" height="748" alt="image" src="https://github.com/user-attachments/assets/3d040fc6-135d-4c99-80aa-644a7abe3828" />
 
 ## Future Scope
 
