@@ -49,9 +49,11 @@ We envision a future where digital academic and non-academic information is trul
 - Built using the modern, secure Soroban Smart Contract SDK (Rust)
 - Scalable architecture designed to hold lifelong learning records
 
-## Contract Details
+## 🔗 DEPLOYED SMARTCONTRACT DETAILS
 
-- Contract Address: CB2OZTF7KAFW73XTCA3N5YGOLLZUPEQM2QCUDFZNS6UBBDZXFSPRFSWO
+> [!IMPORTANT]
+> **CONTRACT ID:** `CB2OZTF7KAFW73XTCA3N5YGOLLZUPEQM2QCUDFZNS6UBBDZXFSPRFSWO` **NETWORK:** Stellar Testnet (Soroban)
+
 <img width="1896" height="748" alt="image" src="https://github.com/user-attachments/assets/3d040fc6-135d-4c99-80aa-644a7abe3828" />
 
 ## Future Scope
